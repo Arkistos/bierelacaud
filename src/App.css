@@ -1,0 +1,40 @@
+body{
+  background-color:#fdf1c920
+}
+.flip-clock {
+  display: inline-block;
+  font-family: Arial, sans-serif;
+}
+
+.flip-clock-unit {
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+}
+
+.flip-clock-value {
+  font-size: 48px;
+  font-weight: bold;
+  color: #000;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.flip-clock-label {
+  font-size: 14px;
+  color: #888;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+
+#bottle{
+  width:40vw;
+  height: 30vw
+  
+}
+.form-zone{
+  display:flex;
+  justify-content: center;
+}
