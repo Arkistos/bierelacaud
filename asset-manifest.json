@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bierelacaud/static/css/main.aa3b9b18.css",
+    "main.js": "/bierelacaud/static/js/main.c9bb2f77.js",
+    "static/js/787.d6dbb4cd.chunk.js": "/bierelacaud/static/js/787.d6dbb4cd.chunk.js",
+    "static/media/bouteille.png": "/bierelacaud/static/media/bouteille.9a6c660a3c7e4447c5ba.png",
+    "static/media/logo.png": "/bierelacaud/static/media/logo.edaaef95fa645e9ae953.png",
+    "static/media/logo.svg": "/bierelacaud/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bierelacaud/index.html",
+    "main.aa3b9b18.css.map": "/bierelacaud/static/css/main.aa3b9b18.css.map",
+    "main.c9bb2f77.js.map": "/bierelacaud/static/js/main.c9bb2f77.js.map",
+    "787.d6dbb4cd.chunk.js.map": "/bierelacaud/static/js/787.d6dbb4cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa3b9b18.css",
+    "static/js/main.c9bb2f77.js"
+  ]
+}
